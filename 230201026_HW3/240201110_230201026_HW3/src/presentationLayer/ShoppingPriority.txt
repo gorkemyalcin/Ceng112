@@ -1,0 +1,3 @@
+baklava,9
+apples,1
+fish,5
